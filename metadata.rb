@@ -1,0 +1,11 @@
+name 'stack1'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures stack1'
+long_description 'Installs/Configures stack1'
+version '0.1.0'
+
+depends 'apt', '~> 2.9.2'
+depends 'golang', '~> 1.7.0'
+depends 'nginx', '~> 2.7.6'
