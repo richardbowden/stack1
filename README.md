@@ -68,7 +68,7 @@ this recipe will configure a server to run the backend web server
 
 To select which version of the webserevr to install, set the following to one of the following
 
-In the Vagrantfile, on line 122, set the value to one of the following from repo https://github.com/richardbowden/websrvtest
+In the Vagrantfile, on line 105, set the value to one of the following from repo https://github.com/richardbowden/websrvtest
 
 **default is v0.0.2**
 
