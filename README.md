@@ -86,7 +86,7 @@ This recipe will install and configure nginx to load balance between the backend
 
 ####Attributes
 
-no use configurable attributes for this demo.
+no user configurable attributes for this demo.
 
 #Usage
 
@@ -156,7 +156,7 @@ Password:
 
 6 . refresh the webpage, you will see which host is serving the current page
 
-7 . to upgrade the backend to commit `492f907e92ad6f7cce8db3abce63c564a5df3871`, this is on the dev branch, locate line 105, change `v0.0.1` to commit id, now save the file
+7 . to upgrade the backend to commit `492f907e92ad6f7cce8db3abce63c564a5df3871`, this is on the dev branch, locate line 105, change `v0.0.2` to commit id, now save the file
 
 8. run `vagrant provision backend001 backend002`
 

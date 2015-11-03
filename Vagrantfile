@@ -102,7 +102,7 @@ Vagrant.configure(2) do |config|
         chef.json = {
           "backend" => {
             "websrvtest" => {
-              "tag_commit_id_or_branch" => "v0.0.2"
+              "tag_commit_id_or_branch" => "492f907e92ad6f7cce8db3abce63c564a5df3871"
             }
           }
         }
